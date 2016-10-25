@@ -48,9 +48,7 @@ p {
   line-height: 1.5;
 }
 .smprofile{
-  font-size: 20px;
-  font-style: italic;
-  font-weight: bold;
+  font: italic bold 20px/30px Georgia, serif;
 }
 
 .wrapper {
