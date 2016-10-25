@@ -47,6 +47,12 @@ a:focus {
 p {
   line-height: 1.5;
 }
+.smprofile{
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+}
+
 .wrapper {
   background: #fff;
   margin: 0 auto;
@@ -65,7 +71,7 @@ p {
     width: 240px;*/
     height: 100%;
     color: #fff;
-    min-height: 1300px;
+    min-height: 1450px;
   }
 }
 
@@ -307,6 +313,8 @@ p {
 .footer .fa-heart {
   color: #fb866a;
 }
+
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .sidebar-wrapper {
