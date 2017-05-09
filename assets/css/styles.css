@@ -69,7 +69,7 @@ p {
     width: 240px;*/
     height: 100%;
     color: #fff;
-    min-height: 1600px;
+    min-height: 1500px;
   }
 }
 
@@ -346,7 +346,3 @@ p {
     top: 1px;
   }
 }
-/* Large devices (large desktops, 1200px and up) */
-/* Ex-Large devices (large desktops, 1200px and up) */
-
-h4,
